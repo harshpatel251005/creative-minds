@@ -1,0 +1,41 @@
+.mouse
+{
+    cursor: crosshair;
+    font-family: 'Luckiest Guy', cursive;
+    padding-left: 50px;
+    color:black;
+    font-size: 40px;
+    font-weight: 1000;
+}
+.click:hover
+{
+    color: white;
+    background-color: black;
+}
+.click
+{
+    color: violet;
+    text-decoration:none;
+    font-size: 30px;
+    padding: 10px;
+    font-family: fantasy;
+}
+.order
+{
+    display: flex;
+    justify-content: flex-end;
+}
+.mine
+{
+    display: flex;
+    flex-direction:row;
+    justify-content: space-between;
+}
+.on
+{
+  width:100%;  
+}
+li
+{
+    display: inline;
+}
